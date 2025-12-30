@@ -1,0 +1,23 @@
+{
+  "name": "chaiaurbackend",
+  "version": "1.0.0",
+  "description": "Chai and Backend",
+  "keywords": [
+    "Musrat",
+    "Backend",
+    "chai",
+    "and",
+    "code"
+  ],
+  "license": "ISC",
+  "author": "Musrat.jsx",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "dependencies": {
+    "dotenv": "^17.2.3",
+    "express": "^5.2.1"
+  }
+}
